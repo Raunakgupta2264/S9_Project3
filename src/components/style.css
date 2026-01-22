@@ -1,0 +1,9 @@
+*{
+    background: linear-gradient(180deg, rgb(185, 235, 185), lightcoral
+    );
+}
+
+.head{
+    display: flex;
+    gap: 20px;
+}
